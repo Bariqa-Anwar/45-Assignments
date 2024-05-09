@@ -3,7 +3,7 @@
 
 //Storing a person's name in a variable;
 
-let personname:string = "baRaIqa";
+let personname:string = "baRaIqa anwar";
 
 // Printing the person's name in uppercase;
 
