@@ -50,10 +50,3 @@ console.log(car); // (non empty string is true)
 //Test 10: Checking falsiness (false)
 console.log("Is car? I predict False.")
 console.log(car); //(negation of a true value)
-
-
-
-
-
-
-

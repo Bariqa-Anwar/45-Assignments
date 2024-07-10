@@ -30,4 +30,3 @@ else if (alien_color == "'yellow'") {
 else{
     console.log("You lose!")
 };
-

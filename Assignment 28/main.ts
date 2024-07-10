@@ -38,7 +38,3 @@ else if ( a_person_age < 65 ) {
 else{ 
     console.log("The person is an Elder")
 };
-
-
-
-

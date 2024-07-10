@@ -13,14 +13,14 @@ been changed.
 that its order has changed.*/
 
 //Array in alphabetical order
-let my_places: string [] = ["'Norh Pakistan'" , "'Turkey'" , "'Italy'" ,  , "'Skardu'" , "'Indonesia'"]; 
+let my_places = ["'Norh Pakistan'" , "'Turkey'" , "'Italy'" ,  , "'Skardu'" , "'Indonesia'"]; 
 // console.log('original: ' + my_places);
 
 // //without modifying actual list
-// console.log(`copy: ` + [...my_places].sort());
+console.log(`copy: ` + [...my_places].sort());
 
 // //showing that array is still in its original order
-// console.log('original: ' + my_places);
+console.log('original: ' + my_places);
 
 //Printing in reverse alphabetical order
 console.log(`copy: ` + [...my_places].sort().reverse());
